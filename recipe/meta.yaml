@@ -41,7 +41,7 @@ test:
 about:
   home: http://github.com/miurahr/bcj-cffi
   summary: bcj algorithm library
-  license: LGPL-2.1
+  license: LGPL-2.1-only
   license_file: LICENSE
 
 extra:
